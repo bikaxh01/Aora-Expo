@@ -15,5 +15,5 @@
     "app.d.ts",
     "app.d.ts",
     "expo-env.d.ts"
-  ]
+, "lib/appwrite.js"  ]
 }
